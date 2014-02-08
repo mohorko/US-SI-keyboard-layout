@@ -9,11 +9,11 @@ Accented characters:
 * AltGr + s = š
 * AltGr + c = č
 * AltGr + z = ž
-* AltGr + d = 
+* AltGr + d = đ
 * AltGr + Shift + s = Š
 * AltGr + Shift + c = Č
 * AltGr + Shift + z = Ž
-* AltGr + Shift + d = 
+* AltGr + Shift + d = Đ
 
 Special characters:
 * AltGr + e = €
