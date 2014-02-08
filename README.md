@@ -9,13 +9,24 @@ Accented characters:
 * AltGr + s = š
 * AltGr + c = č
 * AltGr + z = ž
+* AltGr + d = 
 * AltGr + Shift + s = Š
 * AltGr + Shift + c = Č
 * AltGr + Shift + z = Ž
+* AltGr + Shift + d = 
 
 Special characters:
 * AltGr + e = €
 * AltGr + v = @
+* AltGr + 0 = °
+* AltGr + m = µ
+* AltGr + 4 = €
+* AltGr + 5 = ¼
+* AltGr + 6 = ½
+* AltGr + 7 = ¾
+* AltGr + 8 = ×
+* AltGr + / = ÷
+* AltGr + \ = ¬
 
 Remaped keys:
 * ~ key remaped as + sign. 
