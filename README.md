@@ -22,3 +22,4 @@ Remaped keys:
 * ~ character moved to second level (Shift + ~ = ~)
 
 
+Layouts created with The Microsoft Keyboard Layout Creator v1.4 (link http://msdn.microsoft.com/en-us/goglobal/bb964665.aspx).
