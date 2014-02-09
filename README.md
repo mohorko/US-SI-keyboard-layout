@@ -1,11 +1,11 @@
 US-SI-keyboard-layout
 =====================
 
-A modified US keyboard layout that includes characters from SI (Slovenian) layout. Optimized for ThinkPad T530 keyboard.
+A modified US keyboard layout that includes characters from SI (Slovenian) layout.
 
-Modifications added:
+#Modifications added:
 
-Accented characters:
+##Accented characters:
 * AltGr + s = š
 * AltGr + c = č
 * AltGr + z = ž
@@ -15,7 +15,7 @@ Accented characters:
 * AltGr + Shift + z = Ž
 * AltGr + Shift + d = Đ
 
-Special characters:
+##Special characters:
 * AltGr + e = €
 * AltGr + v = @
 * AltGr + 0 = °
@@ -28,9 +28,11 @@ Special characters:
 * AltGr + / = ÷
 * AltGr + \ = ¬
 
-Remaped keys:
+##Remaped keys:
 * ~ key remaped as + sign. 
 * ~ character moved to second level (Shift + ~ = ~)
 
+#Installation:
+Download contents of binary dll folder and run setup.exe
 
 Layouts created with The Microsoft Keyboard Layout Creator v1.4 (link http://msdn.microsoft.com/en-us/goglobal/bb964665.aspx).
