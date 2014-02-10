@@ -33,6 +33,6 @@ A modified US keyboard layout that includes characters from SI (Slovenian) layou
 * ~ character moved to second level (Shift + ~ = ~)
 
 ##Installation:
-Download contents of binary dll folder and run setup.exe
+Download US-SI setup.exe (self-extracting archive), extract to a folder and run setup.exe.
 
 Note: Layout created with [The Microsoft Keyboard Layout Creator v1.4] (link http://msdn.microsoft.com/en-us/goglobal/bb964665.aspx).
